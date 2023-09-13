@@ -1,0 +1,1 @@
+web: gunicorn sdg_map.wsgi
